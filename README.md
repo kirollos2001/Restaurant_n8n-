@@ -1,5 +1,9 @@
 # Restaurant n8n Automated Customer Support
 
+![n8n](https://img.shields.io/badge/n8n-%23FF6611.svg?style=for-the-badge&logo=n8n&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-%238E75B2.svg?style=for-the-badge&logo=google-gemini&logoColor=white) ![AI RAG](https://img.shields.io/badge/AI%20RAG-000000?style=for-the-badge&logo=openai&logoColor=white)
+
+![Architecture](architecture.png)
+
 This project is an automated customer service system for a restaurant, built using [n8n](https://n8n.io/).
 The workflow enables customers to interact with the restaurant through Telegram, allowing them to:
 - View the menu
